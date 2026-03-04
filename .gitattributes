@@ -1,3 +1,11 @@
 . filter=lfs diff=lfs merge=lfs -text
+Artificial filter=lfs diff=lfs merge=lfs -text
+Intel/Project filter=lfs diff=lfs merge=lfs -text
+C:/Users/nayan/Documents/MS filter=lfs diff=lfs merge=lfs -text
+in filter=lfs diff=lfs merge=lfs -text
+AI/CIS filter=lfs diff=lfs merge=lfs -text
+585 filter=lfs diff=lfs merge=lfs -text
+Adv filter=lfs diff=lfs merge=lfs -text
+~/Documents/MS[[:space:]]in[[:space:]]AI/CIS[[:space:]]585[[:space:]]Adv[[:space:]]Artificial[[:space:]]Intel/Project filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
